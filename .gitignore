@@ -147,6 +147,18 @@ activemq-data/
 # SageMath parsed files
 *.sage.py
 
+# Project data
+data/
+*.db
+
+# Frontend
+node_modules/
+frontend/dist/
+
+# Linked Live2D assets (use scripts/link_olv_models.py)
+live2d-models/*
+!live2d-models/README.md
+
 # Environments
 .env
 .envrc

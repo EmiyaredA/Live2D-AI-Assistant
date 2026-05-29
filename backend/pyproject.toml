@@ -1,0 +1,2 @@
+# Dependencies are managed from the repository root pyproject.toml
+# Run: cd .. && uv sync

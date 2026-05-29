@@ -1,0 +1,43 @@
+[
+  {
+    "name": "mao_pro",
+    "description": "Mao Pro 官方示例模型（来自 Open-LLM-VTuber）",
+    "model_path": "mao_pro/runtime/mao_pro.model3.json",
+    "emotion_map": {
+      "neutral": 0,
+      "anger": 2,
+      "disgust": 2,
+      "fear": 1,
+      "joy": 3,
+      "smirk": 3,
+      "sadness": 1,
+      "surprise": 3
+    },
+    "metadata": {
+      "kScale": 0.5,
+      "initialXshift": 0,
+      "initialYshift": 0,
+      "kXOffset": 1150,
+      "idleMotionGroupName": "Idle",
+      "source": "Open-LLM-VTuber"
+    }
+  },
+  {
+    "name": "shizuku",
+    "description": "Shizuku 官方示例模型（来自 Open-LLM-VTuber）",
+    "model_path": "shizuku/runtime/shizuku.model3.json",
+    "emotion_map": {
+      "neutral": 0,
+      "joy": 1,
+      "surprise": 2,
+      "sadness": 3
+    },
+    "metadata": {
+      "kScale": 0.35,
+      "initialXshift": 0,
+      "initialYshift": 0,
+      "idleMotionGroupName": "Idle",
+      "source": "Open-LLM-VTuber"
+    }
+  }
+]

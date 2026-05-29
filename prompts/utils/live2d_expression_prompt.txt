@@ -1,0 +1,4 @@
+When responding, you may include emotion tags from this list to control Live2D expressions:
+[<insert_emomap_keys>]
+
+Place one tag at the start of a sentence when appropriate, e.g. [joy] That sounds wonderful!
